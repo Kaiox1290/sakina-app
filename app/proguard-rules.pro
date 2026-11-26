@@ -1,0 +1,2 @@
+-keep class com.sakina.app.** { *; }
+-dontwarn **
